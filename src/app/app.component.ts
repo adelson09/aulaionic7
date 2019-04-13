@@ -30,6 +30,7 @@ export class MyApp {
       { title: 'Home', component: 'HomePage' },
       { title: 'Logoff', component: 'LogoffPage' },
       { title: 'Lista de produto', component: 'ListaProdutoPage' },
+      { title: 'Lista de livro', component: 'ListaLivroPage' },
 
 
 
